@@ -1,0 +1,6 @@
+SupplyCode                 quantity
+Contactless Thermometer :      0
+Hand Sanitizers         :      0
+Face Mask               :      0
+Sugical Mask            :      0
+Oxygen Mask             :      0

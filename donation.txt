@@ -1,0 +1,7 @@
+SupplyCode              Donator         Shipment Quantity
+Contactless Thermometer  CT Japan         1         0
+Hand Sanitizers          HS USA           1         0
+Face Mask                FM China         2         0
+Sugical Mask             SM China         2         0
+Oxygen Mask              OM Saudi Arabia  2         0
+
